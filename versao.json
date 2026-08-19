@@ -1,7 +1,7 @@
 {
-  "versao": "1.0.0",
-  "url": "https://github.com/minantiii/gerador-de-fotos/releases/download/v1.0.0/GeradorDeFotos.exe",
-  "sha256": "8965c76df7e0d410c6d68c5c989ce258b1e1e80e7d39ebbfb7efd72b07203cc0",
-  "tamanho": 65382079,
-  "notas": "Primeira versao."
+  "versao": "1.0.1",
+  "url": "https://github.com/minantiii/gerador-de-fotos/releases/download/v1.0.1/GeradorDeFotos.exe",
+  "sha256": "a9a10cdac25e218f80924c21ec92941ced91acde5d2309d6beeeeae64a1a3ede",
+  "tamanho": 65381041,
+  "notas": "A pagina passou para a Vercel e o programa deixou de ler o modelo do Gemini."
 }
