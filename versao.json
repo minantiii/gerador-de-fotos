@@ -1,7 +1,9 @@
 {
-  "versao": "1.0.2",
-  "url": "https://github.com/minantiii/gerador-de-fotos/releases/download/v1.0.2/GeradorDeFotos.exe",
-  "sha256": "571b0da8ff356bfe0c89c4a0d98e2a85f669768cba735d085504e9a660bd8342",
-  "tamanho": 65380929,
-  "notas": "As fotos passam a chegar na sua pasta uma a uma, assim que ficam prontas. Se voce parar no meio, o que ja saiu continua la."
+  "versao": "1.0.3",
+  "url": "https://github.com/minantiii/gerador-de-fotos/releases/download/v1.0.3/GeradorDeFotos.exe",
+  "sha256": "b6b12b46f7568a7c5aa6036bd5ecc0160bcba8d4ce14612e3b9cb8512c4129d9",
+  "tamanho": 65388111,
+  "notas": "O programa passa a se manter atualizado sozinho: quando sair uma correcao, ele instala na proxima vez que voce fechar, sem precisar clicar em nada.",
+  "bloqueado": false,
+  "mensagem": ""
 }
