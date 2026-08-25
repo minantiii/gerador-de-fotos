@@ -1,9 +1,9 @@
 {
-  "versao": "1.0.5",
-  "url": "https://github.com/minantiii/gerador-de-fotos/releases/download/v1.0.5/GeradorDeFotos.exe",
-  "sha256": "e0f20191284253021919039b3eed4e24d0b4bbc747f17b58074f374b23aa9604",
-  "tamanho": 65392584,
-  "notas": "Corrige a foto errada: quando o Mercado Livre nao entrega a pagina do anuncio, o programa nao usa mais a imagem que encontrar pela frente. Os anuncios feitos com a foto errada sao refeitos sozinhos.",
+  "versao": "1.0.6",
+  "url": "https://github.com/minantiii/gerador-de-fotos/releases/download/v1.0.6/GeradorDeFotos.exe",
+  "sha256": "b0aab041973a241d2c472aee4e1caabdb859b259e8e50d114cb6bcba95fc8c29",
+  "tamanho": 65390061,
+  "notas": "Agora o programa tambem conecta a conta do Mercado Livre, no passo 1. E' o que faltava: sem estar logado, o site interrompia a leitura dos anuncios e as fotos saiam erradas. Corrige tambem uma falha da versao anterior que impedia a leitura dos anuncios.",
   "bloqueado": false,
   "mensagem": ""
 }
