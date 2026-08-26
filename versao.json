@@ -1,9 +1,9 @@
 {
-  "versao": "1.0.6",
-  "url": "https://github.com/minantiii/gerador-de-fotos/releases/download/v1.0.6/GeradorDeFotos.exe",
-  "sha256": "b0aab041973a241d2c472aee4e1caabdb859b259e8e50d114cb6bcba95fc8c29",
-  "tamanho": 65390061,
-  "notas": "Agora o programa tambem conecta a conta do Mercado Livre, no passo 1. E' o que faltava: sem estar logado, o site interrompia a leitura dos anuncios e as fotos saiam erradas. Corrige tambem uma falha da versao anterior que impedia a leitura dos anuncios.",
+  "versao": "1.0.7",
+  "url": "https://github.com/minantiii/gerador-de-fotos/releases/download/v1.0.7/GeradorDeFotos.exe",
+  "sha256": "4065636ed2f5f2bcef8819f07b89f0043c5747cb9b11db4578ae5e01a9a7563d",
+  "tamanho": 65394396,
+  "notas": "Nao trava mais esperando o Gemini: quando a geracao nao comeca, o programa recarrega a pagina e tenta de novo, em vez de esperar 3 minutos",
   "bloqueado": false,
   "mensagem": ""
 }
