@@ -1,9 +1,9 @@
 {
-  "versao": "1.1.0",
-  "url": "https://github.com/minantiii/gerador-de-fotos/releases/download/v1.1.0/GeradorDeFotos.exe",
-  "sha256": "1961199b2b6dd154d01ccaca445cc45ad4f94cfaec443fa3943478d3bfd450e0",
-  "tamanho": 65434875,
-  "notas": "Central de scripts com o gerador de fotos de carros, e a janela agora se ajusta a tela",
+  "versao": "1.1.1",
+  "url": "https://github.com/minantiii/gerador-de-fotos/releases/download/v1.1.1/GeradorDeFotos.exe",
+  "sha256": "925b92e810c1ace92b0967a9e1427d10c47e392e061c45a1c4c78ff462a31dda",
+  "tamanho": 65435427,
+  "notas": "Fotos dos carros salvas como MONTADORA_MODELO_ANO",
   "bloqueado": false,
   "mensagem": ""
 }
