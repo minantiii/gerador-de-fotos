@@ -1,9 +1,9 @@
 {
-  "versao": "1.1.1",
-  "url": "https://github.com/minantiii/gerador-de-fotos/releases/download/v1.1.1/GeradorDeFotos.exe",
-  "sha256": "925b92e810c1ace92b0967a9e1427d10c47e392e061c45a1c4c78ff462a31dda",
-  "tamanho": 65435427,
-  "notas": "Fotos dos carros salvas como MONTADORA_MODELO_ANO",
+  "versao": "1.1.2",
+  "url": "https://github.com/minantiii/gerador-de-fotos/releases/download/v1.1.2/GeradorDeFotos.exe",
+  "sha256": "1f3c252de4b192c9c44ba450f0fa84af56c303d00983c2f353470160322190bc",
+  "tamanho": 65444066,
+  "notas": "Corrige a trava da verificação do servidor e adiciona a escolha de cor livre",
   "bloqueado": false,
   "mensagem": ""
 }
