@@ -1,9 +1,9 @@
 {
-  "versao": "1.1.2",
-  "url": "https://github.com/minantiii/gerador-de-fotos/releases/download/v1.1.2/GeradorDeFotos.exe",
-  "sha256": "1f3c252de4b192c9c44ba450f0fa84af56c303d00983c2f353470160322190bc",
-  "tamanho": 65444066,
-  "notas": "Corrige a trava da verificação do servidor e adiciona a escolha de cor livre",
+  "versao": "1.1.3",
+  "url": "https://github.com/minantiii/gerador-de-fotos/releases/download/v1.1.3/GeradorDeFotos.exe",
+  "sha256": "cfe3197f57d41d11f387c61e2ec565a95969601a47ffca40cc8cbe6407177c5c",
+  "tamanho": 65468047,
+  "notas": "Volta a funcionar com a interface nova do ChatGPT",
   "bloqueado": false,
   "mensagem": ""
 }
